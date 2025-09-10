@@ -1,0 +1,28 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+#Uno{
+    padding: 20px;
+    background-color: cadetblue;
+    border: 10px solid black ;
+}
+
+#Uno p{
+    margin:0%;
+}
+
+#Dos{
+    background-color: gold;
+    border: solid black ;
+    border-width: 20px 10px;
+    margin-left: 260px;
+    
+}
+#Tres{
+    background-color: indianred;
+    border: 10px solid black;
+    margin-left: 40px;
+    
+}
